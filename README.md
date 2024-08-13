@@ -20,25 +20,25 @@ Welcome to my GitHub profile! I’m a passionate Data Analyst with a strong foun
 
 ## 📂 Projects
 
-### [Coffee Shop Sales Data Analysis](link-to-project)
+### [Coffee Shop Sales Data Analysis]([link-to-project](https://github.com/pvmonika/Coffee_Shop_sales))
 - **Description**: Analyzed sales data to identify trends and opportunities for growth. Created interactive Power BI dashboards to visualize key metrics.
 - **Technologies Used**: Excel, SQL, Power BI
 - **Key Takeaways**: Gained insights into sales performance and provided actionable recommendations to improve revenue.
 
-### [OTP Verification Segmentation](link-to-project)
+### [OTP Verification Segmentation][https://github.com/pvmonika/OTP_verification]
 - **Description**: Conducted a customer segmentation analysis using Python to categorize customers based on purchasing behavior. 
 - **Technologies Used**: Python, SQL, Excel
 - **Key Takeaways**: Enabled targeted marketing strategies by identifying distinct customer segments.
 
-### [Financial Forecasting Model](link-to-project)
-- **Description**: Developed a forecasting model to predict future financial trends based on historical data.
-- **Technologies Used**: Excel, Python
-- **Key Takeaways**: Improved accuracy of financial predictions and informed strategic decision-making.
+### Laptop Price Prediction[https://github.com/pvmonika/Laptop-Price-Prediction]
+- **Description**: Developed a model to predict price of the laptop trends based on Features and brands specification.
+- **Technologies Used**: Excel, Python,SQL
+- **Key Takeaways**: Improved accuracy upto 89% of the predictions and informed strategic decision-making.
 
 ## 🌟 Certifications
 
-- **[Certification Name]** - Description
-- **[Certification Name]** - Description
+- **[Forage Internship]** - Description
+- **[Certified in Data Science at Odinschool]** - Description
 
 ## 🛠️ Tools & Technologies
 
