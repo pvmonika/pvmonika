@@ -23,13 +23,6 @@ Welcome to my GitHub profile! I’m a passionate Data Analyst with a strong foun
 - **[Forage Internship]** - Description
 - **[Certified in Data Science at Odinschool]** - Description
 
-## 🛠️ Tools & Technologies
-
-- **Excel**: Data analysis, Advanced formulas, PivotTables
-- **SQL**: MySQL, PostgreSQL
-- **Python**: Pandas, NumPy, Matplotlib, Seaborn
-- **Power BI**: Dashboard creation, Data visualization
-
 ## 💬 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/monika-pabbu/)
