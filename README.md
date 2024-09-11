@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I’m a passionate Data Analyst with a strong foun
 - 🔍 **Data Analyst** with a keen eye for detail and a knack for turning data into actionable insights.
 - 📊 **Experienced in**: Excel, SQL, Python, Power BI.
 - 🧠 **Analytical Thinker** with a love for mathematics and problem-solving.
-- 👥 **Team Leadership**: Over three years of experience managing teams and projects, honing my skills in collaboration and strategic thinking.
+- 👥 **Team Leadership**: Over 3 years of experience managing teams and projects, honing my skills in collaboration and strategic thinking.
 
 ## 🚀 Skills
 
